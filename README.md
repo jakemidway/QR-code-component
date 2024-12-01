@@ -1,4 +1,5 @@
 Frontend Mentor - QR Code Component
+
 This is a beginner-friendly project from the educational platform Frontend Mentor, created to enhance skills in HTML and CSS.
 
 📝 Project Description
